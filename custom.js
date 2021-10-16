@@ -94,6 +94,12 @@ var badWords = [
     "qohbi",
     "qou7bi",
     "qo7bi",
+    "9awed",
+    "9ewed",
+    "9awad",
+    "kawed",
+    "kewed",
+    "kawad",
     "نيك",
     "نيك مك",
     "نيك يماك",
@@ -130,7 +136,8 @@ var badWords = [
     "ترمتك",
     "قحبة",
     "قحاب",
-    "قحبي"
+    "قحبي",
+    "قود"
 ]
 
 badWords.forEach(el => {
